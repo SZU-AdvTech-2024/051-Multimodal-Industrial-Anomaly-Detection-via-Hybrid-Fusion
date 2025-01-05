@@ -1,0 +1,7 @@
+@article{REPO051,
+    author = "Wang, Yue and Peng, Jinlong and Zhang, Jiangning and Yi, Ran and Wang, Yabiao and Wang, Chengjie",
+    journal = "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    pages = "8032-8041",
+    title = "{Multimodal Industrial Anomaly Detection via Hybrid Fusion}",
+    year = "2023"
+}
